@@ -1,5 +1,5 @@
 # ObjectDetection_topic1
-This subdirectory includes examples for the topics cover in Object Detection for Dummies Part 1: Gradient Vector, Histogram of Gradients, Image Segmentation, and Selective Search.
+This subdirectory includes examples for the topics covered in Object Detection for Dummies Part 1: Gradient Vector, Histogram of Gradients, Image Segmentation, and Selective Search.
 ## Prerequisites
 Python 3.7 +
 
@@ -36,7 +36,7 @@ The script will create a window showing the region proposal results. While havin
 
 ## Questions?
 For any questions or concerns, 
-please email to Ziheng (Leo) Li <zl2990@columbia.edu>, Lechen Li <ll3097@columbia.edu>, Adithya Narayana <an3017@columbia.edu>
+please email Ziheng (Leo) Li <zl2990@columbia.edu>, Lechen Li <ll3097@columbia.edu>, Adithya Narayana <an3017@columbia.edu>
 
 ## References
 [1] https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html
