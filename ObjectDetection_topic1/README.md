@@ -8,7 +8,8 @@ Install all the required packages with `pip install -r requirements.txt`
 ## Image Gradient Vectors
 ## Histogram of Gradients
 We show the step-by-step procedure of how HOG works for feature extraction by using the example image (Manu Ginobilli)
-
+In ../HOG/, you can find ../Object_detection_part1_HOG.ipynb, which provides the details of the gradient calculations 
+(magnitude and orientation) and visualization results of HOG features.
 ## Image Segmentation
 We provide examples for visualizing the image segmentation process with the Felzenszwalb’s Algorithm. 
 
