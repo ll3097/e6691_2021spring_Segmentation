@@ -13,10 +13,15 @@ Jupyter notebook by the authors of Detectron2 at Facebook. This tutorial illustr
 ## References
 
 [1] https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
+
 [2] Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. “Rich feature hierarchies for accurate object detection and semantic segmentation.” In Proc. IEEE Conf. on computer vision and pattern recognition (CVPR), pp. 580-587. 2014.
+
 [3] Ross Girshick. “Fast R-CNN.” In Proc. IEEE Intl. Conf. on computer vision, pp. 1440-1448. 2015.
+
 [4] Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. “Faster R-CNN: Towards real-time object detection with region proposal networks.” In Advances in neural information processing systems (NIPS), pp. 91-99. 2015.
+
 [5] Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. “Mask R-CNN.” arXiv preprint arXiv:1703.06870, 2017.
+
 [6] https://github.com/facebookresearch/detectron2
 
 
