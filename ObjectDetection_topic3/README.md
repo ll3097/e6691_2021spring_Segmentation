@@ -11,7 +11,7 @@ Jupyter notebook by the authors of Detectron2 at Facebook. This tutorial illustr
 
 ## Questions?
 
-For any questions, please feel free to contact Emile Chamoun (ec3478@columbia.edu), Bryant Zhang (bhz2103@columbia.edu) and Isabella Smythe (iss2118@columbia.edu).
+For any questions, please feel free to contact Emile Chamoun (ec3478@columbia.edu), Bryant Zhang (bhz2103@columbia.edu), Isabella Smythe (iss2118@columbia.edu).
 
 ## References
 
