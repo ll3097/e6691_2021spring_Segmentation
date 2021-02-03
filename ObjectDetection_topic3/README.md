@@ -9,6 +9,9 @@ https://github.com/facebookresearch/detectron2
 ### Detectron2_Tutorial.ipynb: 
 Jupyter notebook by the authors of Detectron2 at Facebook. This tutorial illustrates example usage of detectron 2 including inference from pretrained models and training a new model on a custom dataset.
 
+## Questions?
+
+For any questions, please feel free to contact Emile Chamoun (ec3478@columbia.edu), Bryant Zhang (bhz2103@columbia.edu) and Isabella Smythe (iss2118@columbia.edu).
 
 ## References
 
