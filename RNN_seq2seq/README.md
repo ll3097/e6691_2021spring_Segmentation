@@ -1,32 +1,45 @@
 # RNN_seq2seq Repository
 
-This directory contains example code for the the R-CNN family of object detection & segmentation models. (will update this file soon)
+This directory contains example code for the the RNN / Sequence-to-sequence models. 
 
-## Detectron2:
+## Detectron2:(to be continued)
 Pytorch framework implemented by the Facebook's AI Research team. It contains implementations of state-of-the-art object detection algorithms including variants of Mask R-CNN:
 https://github.com/facebookresearch/detectron2
 
 A forked copy is available here: https://github.com/ecbme6040/detectron2
 
-### Detectron2_Tutorial.ipynb: 
-Jupyter notebook by the authors of Detectron2 at Facebook. This tutorial illustrates example usage of detectron 2 including inference from pretrained models and training a new model on a custom dataset.
+### seq2seq_translation_tutorial.ipynb: 
+Jupyter notebook contains the tutorial for sequence-to-sequence in Pytorch. The dataset for this tutorial could be found at <https://download.pytorch.org/tutorial/data.zip>. The tutorial used the dataset 'data/eng-fra.txt' since the English to French pairs are too big to include in the repo but feel free to try yourself for the entire dataset. 
+
+### Additional resources:
+Here's more resources for machine translation: https://github.com/ArushiSinghal/Neural-Machine-Translation-English-Hindi-for-domain-data 
 
 ## Questions?
 
-For any questions, please feel free to contact Emile Chamoun (ec3478@columbia.edu), Bryant Zhang (bhz2103@columbia.edu), Isabella Smythe (iss2118@columbia.edu).
+For any questions, please feel free to contact Chelsea Cui (ac4788@columbia.edu), Tong Xue (tx2208@columbia.edu).
 
 ## References
 
-[1] https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
+[1] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 
-[2] Ross Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. “Rich feature hierarchies for accurate object detection and semantic segmentation.” In Proc. IEEE Conf. on computer vision and pattern recognition (CVPR), pp. 580-587. 2014.
+[2] https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
 
-[3] Ross Girshick. “Fast R-CNN.” In Proc. IEEE Intl. Conf. on computer vision, pp. 1440-1448. 2015.
+[3] https://medium.com/analytics-vidhya/intuitive-understanding-of-seq2seq-model-attention-mechanism-in-deep-learning-1c1c24aace1e
 
-[4] Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. “Faster R-CNN: Towards real-time object detection with region proposal networks.” In Advances in neural information processing systems (NIPS), pp. 91-99. 2015.
+[4] https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf
 
-[5] Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. “Mask R-CNN.” arXiv preprint arXiv:1703.06870, 2017.
+[5] [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
 
-[6] https://github.com/facebookresearch/detectron2
+[6] [Sequence to Sequence Learning with Neural Networks (original seq2seq NMT paper)](https://arxiv.org/pdf/1409.3215.pdf)
+
+[7] [Stanford CS224N notes for Seq2Seq and Attention] (https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture08-nmt.pdf)
+
+[8] https://medium.com/analytics-vidhya/intuitive-understanding-of-seq2seq-model-attention-mechanism-in-deep-learning-1c1c24aace1e
+
+[9] [Effective Approaches to Attention-based Neural Machine Translation (Luong attention paper)](https://arxiv.org/abs/1508.04025)
+
+[10] http://colah.github.io/posts/2015-08-Understanding-LSTMs/ 
+
+[11] https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
 
