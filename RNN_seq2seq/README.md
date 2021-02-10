@@ -32,7 +32,7 @@ Jupyter notebook contains a demo for the application of Seq2Seq in solving time 
 
 - [Demo for Feedforward Networks (Vanishing Gradients)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/lectures/vanishing_grad_example.html)
 
-
+- [PyTorch Example of Translation with a Sequence to Sequence Network and Attention with implementations of  Luong et al. model and Bahdanau et al. model](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 
 ## Questions?
 
