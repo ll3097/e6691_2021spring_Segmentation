@@ -42,7 +42,8 @@ PS: for other configuration of training, see [argument setup](https://github.com
 
 
 ### Demo
-Open **demo.ipynb**, choose either to inference with pre-saved model or your trained one. There is pretrained model saved in Amazon Bucket, and will be available before Summer 2021
+Open **demo.ipynb**, choose either to inference with pre-saved model or your trained one. There is pretrained model saved in Amazon Bucket, and will be available before Summer 2021.
+
 Examples
 ![image](https://github.com/ecbme6040/e6691_2021spring_paperreviewsrepo_shared/blob/main/colorization/images/4611612935377_.pic_hd.jpg)
 
