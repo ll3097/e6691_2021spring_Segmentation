@@ -19,7 +19,7 @@
 
 <!-- /TOC -->
 ## Notice
-This is the repo for EECS 6691 course presentation, it contains a PyTorch implementation of different semantic segmentation models for different datasets. Apart from original implementation, there are some modifications on the code, a Bug is fixed when the dataloader comes across gray-scale images.
+This is the repo for EECS 6691 course presentation, it contains a PyTorch implementation of different semantic segmentation models for different datasets. Apart from [original implementation](https://github.com/yassouali/pytorch_segmentation/tree/master/dataloaders), there are some modifications on the code, a Bug is fixed when the dataloader comes across gray-scale images.
 
 Experiment is tested on **FCN** and **CocoStuff10k** dataset. Due to time constraints, the model is not trained well, but the result is promising⬇️.
 
