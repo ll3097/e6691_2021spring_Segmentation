@@ -19,20 +19,22 @@ More related blogs and tutorials can be found in the references section.
 
 In this repo, we included the following demo codes:
 
-### seq2seq_translation_tutorial.ipynb: 
-Jupyter notebook contains the tutorial for sequence-to-sequence in Pytorch. The dataset for this tutorial could be found at <https://download.pytorch.org/tutorial/data.zip>. The tutorial used the dataset 'data/eng-fra.txt' since the English to French pairs are too big to include in the repo but feel free to try yourself for the entire dataset. 
+### End_to_End.ipynb: 
+Jupyter notebook contains the tutorial for a broad end-to-end overview of training, evaluating, and attacking a model using TextAttack.
 
-### seq2seq_with_attention_time_series.ipynb:
-Jupyter notebook contains a demo for the application of Seq2Seq in solving time series problems. Two Models are discussed: a simple Seq2Seq LSTM Model, and a Seq2Seq LSTM Model with Luong Attention.
+### Example_tensorflow.ipynb:
+Jupyter notebook contains a demo for implementing the TextAttack on a text classification model using TensorFlow. It contains two parts: training and attacking.
 
+### Introduction_and_Transformations(BananaWordSwap).ipynb
+Jupyter notebook contains a basic introduction for TextAttack and a simple example of using transformations to create adversarial attack.
+
+### models
+A folder contains the pre-trained models that TextAttack includes. 
 
 ### Additional resources:
 
 - [Full TextAttack Details in Github](https://github.com/QData/TextAttack )
 
-- [Demo for Feedforward Networks (Vanishing Gradients)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/lectures/vanishing_grad_example.html)
-
-- [PyTorch Example of Translation with a Sequence to Sequence Network and Attention with implementations of  Luong et al. model and Bahdanau et al. model](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 
 ## Questions?
 
@@ -45,8 +47,6 @@ For any questions, please feel free to contact Chelsea Cui (ac4788@columbia.edu)
 [2] https://www.dropbox.com/s/s7rr3fnfmnfg6bp/2020-07-30%20TextAttack.pdf?dl=0
 
 [3] https://github.com/QData/TextAttack 
-
-
 
 [4] https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf
 
