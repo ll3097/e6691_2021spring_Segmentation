@@ -19,6 +19,9 @@ More related blogs and tutorials can be found in the references section.
 
 In this repo, we included the following demo codes:
 
+### Augmentations.ipynb
+Jupyter notebook shows how to Augmenting a dataset using TextAttack.
+
 ### End_to_End.ipynb: 
 Jupyter notebook contains the tutorial for a broad end-to-end overview of training, evaluating, and attacking a model using TextAttack.
 
@@ -27,6 +30,9 @@ Jupyter notebook contains a demo for implementing the TextAttack on a text class
 
 ### Introduction_and_Transformations(BananaWordSwap).ipynb
 Jupyter notebook contains a basic introduction for TextAttack and a simple example of using transformations to create adversarial attack.
+
+### TextAttack Demo.ipynb
+Jupyter notebook contains basic installation for TextAttack and how to use command line to utilize TextAttack for attacking, training and evaluation. 
 
 ### models
 A folder contains the pre-trained models that TextAttack includes. 
@@ -42,7 +48,7 @@ For any questions, please feel free to contact Chelsea Cui (ac4788@columbia.edu)
 
 ## References
 
-[1] https://arxiv.org/pdf/2005.05909.pdf
+[1] Morris, J. X., Lifland, E., Yoo, J. Y., Grigsby, J., Jin, D., & Qi, Y. (2020). TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP.
 
 [2] https://www.dropbox.com/s/s7rr3fnfmnfg6bp/2020-07-30%20TextAttack.pdf?dl=0
 
