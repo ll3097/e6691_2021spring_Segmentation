@@ -6,11 +6,9 @@ This directory contains example code for the the Adversarial Attack for NLP / Te
 Our presentation slides can be found in the `E6691.2021Spring.StudentLogsPresentationsAndProjects` folder with the name `PaperReview.ac4788.tx2208.Adversarial_Attack_for_NLP`.
 
 ## Related Work
-Our presentation mainly covered Vanilla RNN, LSTM, GRU, Seq2Seq models and the attention mechanism. Some of the recommended readings are:
+Our presentation mainly covered Adversarial attacks in NLP and the TextAttack framework. Some of the recommended readings are:
 
-- [LONG SHORT-TERM MEMORY](http://www.bioinf.jku.at/publications/older/2604.pdf) (original LSTM paper)
-- [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) (original seq2seq NMT paper)
-- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf) (original seq2seq+attention paper)
+- [TextAttack](https://arxiv.org/pdf/2005.05909.pdf) (original TextAttack paper)
 
 More related blogs and tutorials can be found in the references section.
 
@@ -39,7 +37,9 @@ A folder contains the pre-trained models that TextAttack includes.
 
 ### Additional resources:
 
-- [Full TextAttack Details in Github](https://github.com/QData/TextAttack )
+- [Full TextAttack Details in Github](https://github.com/QData/TextAttack)
+- [Huggingface datasets in Github] (https://github.com/huggingface/datasets)
+- [Search a dataset from huggingface] (https://huggingface.co/datasets/viewer/?dataset=aeslc)
 
 
 ## Questions?
@@ -65,3 +65,6 @@ For any questions, please feel free to contact Chelsea Cui (ac4788@columbia.edu)
 [8] Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey. Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li. ACM TIST 2020.
 
 [9] Generating Natural Language Adversarial Examples. Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani Srivastava, Kai-Wei Chang. EMNLP 2018. 
+
+[10] https://github.com/huggingface/datasets
+
