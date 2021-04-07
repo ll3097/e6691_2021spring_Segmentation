@@ -1,5 +1,5 @@
 ## Notice
-This is the repo for EECS 6691 course presentation. It contains a PyTorch implementation of Grad-CAM. The InfoGAN code from  [this repo](https://github.com/jacobgil/pytorch-grad-cam) was used and most code from that repo is collected into GradCAM.ipynb. 
+This is the repo for EECS 6691 course presentation. It contains a PyTorch implementation of Grad-CAM. The GradCAM code from  [this repo](https://github.com/jacobgil/pytorch-grad-cam) was used and most code from that repo is collected into Grad_CAM.ipynb. 
 
 A sample image both.png was used in the experiment.
 
