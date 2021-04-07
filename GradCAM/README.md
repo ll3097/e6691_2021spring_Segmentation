@@ -7,7 +7,7 @@ Below is the visualization of the last convolution layer for the predicted class
 <p align="center"><img src="images/predicted_label_viz.png" align="center" width="750"></p>
 
 Below is the visualization of the last convolution layer for the 'tabby, tabby cat' class label.
-<p align="center"><img src="images/thickness.png" align="center" width="750"></p>
+<p align="center"><img src="images/tabby_cat_viz.png" align="center" width="750"></p>
 
 
 For any question, please contact *Sairam Satwik Kondamudi* sk4824
