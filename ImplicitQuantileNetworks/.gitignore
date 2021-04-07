@@ -1,0 +1,4 @@
+**/__pycache__
+dopamine-venv
+tmp/dopamine_runs/*
+!tmp/dopamine_runs/.gitkeep
