@@ -6,7 +6,7 @@ Some codes for data processing are brought from the original version, thanks to 
 
 <!-- ![demo](./img/demo.jpg) -->
 
-This is the code for the paper
+This is the code for the paper, see also original [repo](https://github.com/weigq/3d_pose_baseline_pytorch)
 
 ```
 @inproceedings{martinez_2017_3dbaseline,
